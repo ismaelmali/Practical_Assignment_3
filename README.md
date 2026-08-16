@@ -4,7 +4,7 @@
 
 This project uses a Portuguese bank's telemarketing data to predict whether a client will subscribe to a term deposit. The data comes from 17 marketing campaigns run between May 2008 and November 2010, and is from the UCI Machine Learning Repository.
 
-Link to Jupyter Notebook: 
+Link to Jupyter Notebook: https://github.com/ismaelmali/Practical_Assignment_3/blob/f96ed111867fe182aee2eb888ee59b00631b6e90/prompt_III.ipynb 
 
 ## Business Objective
 
